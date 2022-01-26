@@ -10,7 +10,7 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 - [device-observability-onthe-edge](https://github.com/iot-for-all/Device-Observability-onthe-Edge) - walks through setting up diagnostics (observability) for an IoT Edge device 
 
 ## connecting devices
-- [iot-central-high-availability-clients](https://github.com/iot-for-all/iot-central-high-availability-clients) - show coding a device to failover between IoT Hubs
+- [iot-central-high-availability-clients](https://github.com/Azure/iot-central-high-availability-clients) - show coding a device to failover between IoT Hubs
 - [iot-central-web-mqtt-device](https://github.com/iot-for-all/iot-central-web-mqtt-device) - simple device ran in a web browser able to do bi-directional communication with IoT Central
 - [iot_central_python_sample](https://github.com/iot-for-all/Iot_Central_Python_Sample) - simple sample device written in Python able to do bi-directional communication with IoT Central
 - [mock-devices](https://github.com/codetunez/mock-devices) - simulates 1 to 1000 devices, gateways, nested devices, and [Azure IoT Edge](https://github.com/Azure/iotedge) with interactive bi-directional communication with IoT Central 
@@ -21,13 +21,12 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 - [iot-central-batch-telemetry-with-python](https://github.com/iot-for-all/iot-central-batch-telemetry-with-python) - sample showing batching telemetry messages using Python device SDK
 - [iotc-micropython-client](https://github.com/iot-for-all/iotc-micropython-client) - a micropython SDK for connecting devices to IoT Central
 - [iotc-python-client](https://github.com/iot-for-all/iotc-python-client) - a Python SDK for connecting devices to IoT Central
-- [iotc-file-upload-device](https://github.com/iot-for-all/iotc-file-upload-device) - shows how a device can upload a file to the cloud using IoT Central
+- [iotc-file-upload-device](https://github.com/Azure/iot-central-file-upload-device) - shows how a device can upload a file to the cloud using IoT Central
 - [node-red-connector-for-azure-iot-central](https://techcommunity.microsoft.com/t5/azure-iot/node-red-connector-for-azure-iot-central/m-p/1605502) - connect devices using Node-RED
 
 ## testing devices
 - [iotc-twinviewer](https://github.com/iot-for-all/iotc-twinviewer) - tool to view current state of the device twin
 - [azure-iot-cli-extension](https://github.com/Azure/azure-iot-cli-extension#microsoft-azure-iot-extension-for-azure-cli) - command line tool for debugging device/cloud messaging
-- [saas-to-paas-and-back](https://github.com/iot-for-all/Saas-to-Paas-and-back) - ***PRIVATE*** demonstrates moving devices by sending it a new DPS id_scope
 
 ## companion experiences
 - [contoso-drive-support](https://github.com/iot-for-all/contoso-drive-support) - an IoT Central companion experience that demonstrates how to build a custom web app for a support technician operating a fleet management solution
@@ -40,8 +39,7 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 ## transformation
 - [Azure/iotc-device-bridge](https://github.com/Azure/iotc-device-bridge) - runnable as an Azure Function or Container, it transforms and sends unidirectional data using HTTP in cloud-to-cloud integrations with IoT Central
 - [iotc-device-bridge](https://github.com/iot-for-all/iotc-device-bridge) - transforms and does bi-directional communication using AMQP in cloud-to-cloud integrations with IoT Central
-- [iot-central-transform-with-device-bridge](https://github.com/iot-for-all/iot-central-transform-with-device-bridge) - ***PRIVATE*** a more complete sample of using iotc-device-bridge to transform and send data to IoT Central
-- [iot-central-transform-with-iot-edge](https://github.com/iot-for-all/iot-central-transform-with-iot-edge) - ***PRIVATE*** uses Azure IoT Edge to transform and send data to IoT Central
+- [iot-central-transform-with-iot-edge](https://github.com/iot-for-all/iot-central-transform-with-iot-edge) - ses Azure IoT Edge to transform and send data to IoT Central
 - [iotc-weather](https://github.com/iot-for-all/iotc-weather) - sends collected weather data from a MySQL database to an IoT Central application
 
 ## compute
@@ -61,7 +59,6 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 - [Releases](https://www.npmjs.com/package/azure-iotcentral-device-client) - Node.js SDKs and samples
 - [Docs](https://docs.microsoft.com/en-us/azure/iot-central/core/tutorial-connect-device-nodejs) - Node.js SDKs and samples
 - [Repo](https://github.com/lucadruda/iotc-java-device-client) - Java SDKs and samples
-- [Samples](https://github.com/lucadruda/iotc-samples/tree/master/java) - Java SDKs and samples
 - [Releases](https://search.maven.org/artifact/com.github.lucadruda/iotc-java-device-client) - Java SDKs and samples
 - [Repo (React Native)](https://github.com/lucadruda/iotc-react-native-device-client) - Mobile device
 - [Releases](https://www.npmjs.com/package/react-native-azure-iotcentral-client) - Mobile device
