@@ -17,7 +17,7 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 - [azure-iot-cli-extension](https://github.com/Azure/azure-iot-cli-extension#microsoft-azure-iot-extension-for-azure-cli) - command line tool for debugging device/cloud messaging
 
 ## companion experiences
-- Coming Soon
+- [iot-central-aad-setup](https://github.com/Azure/iot-central-aad-setup) - guidance on setting up an Azure Active Directory application to work with IoT Central
 
 ## transformation
 - [Azure/iotc-device-bridge](https://github.com/Azure/iotc-device-bridge) - runnable as an Azure Function or Container, it transforms and sends unidirectional data using HTTP in cloud-to-cloud integrations with IoT Central
