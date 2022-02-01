@@ -8,9 +8,9 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 - Coming Soon
 
 ## connecting devices
-- [iot-central-high-availability-clients](https://github.com/Azure/iot-central-high-availability-clients) - show coding a device to failover between IoT Hubs
+- [iot-central-high-availability-clients](https://github.com/Azure/iot-central-high-availability-clients) - device code showing how to failover between IoT Hubs
+- [iot-central-batch-telemetry-with-python](https://github.com/Azure/iot-central-batch-telemetry-with-python) - device code showing how to send telemetry as a batch over AMQP
 - [iot-central-file-upload-device](https://github.com/Azure/iot-central-file-upload-device) - shows how a device can upload a file to the cloud using IoT Central
-- [Industrial IoT Gateway Installer](https://github.com/Azure/Industrial-IoT-Gateway-Installer) - Edge
 
 ## testing devices
 - [iotc-twinviewer](https://github.com/iot-for-all/iotc-twinviewer) - tool to view current state of the device twin
