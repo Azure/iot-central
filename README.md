@@ -35,4 +35,4 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 - [IoT Show](https://aka.ms/iotshow) - videos
 
 ## additional resources
-- [Resources](https://github.com/Azure/iot-central/blob/main/additional_resources.md) - collect links from github and other sources
+- [Resources](https://github.com/Azure/iot-central/blob/main/additional_resources.md) - a collection of resources from across the web
