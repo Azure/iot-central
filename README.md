@@ -10,7 +10,6 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 ## connecting devices
 - [iot-central-high-availability-clients](https://github.com/Azure/iot-central-high-availability-clients) - show coding a device to failover between IoT Hubs
 - [iot-central-file-upload-device](https://github.com/Azure/iot-central-file-upload-device) - shows how a device can upload a file to the cloud using IoT Central
-- [Android Sample (Java)](https://github.com/Azure/iotc-android-sample) - Mobile device
 - [Industrial IoT Gateway Installer](https://github.com/Azure/Industrial-IoT-Gateway-Installer) - Edge
 
 ## testing devices
