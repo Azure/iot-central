@@ -2,7 +2,7 @@
 Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcentral) that make you say "Wow, this is amazing!"
 
 ## guidance
-- Coming Soon 
+- [iot-central-integration-guide](https://github.com/Azure/iot-central-integration-guide) - integration patterns and samples for using IoT Central as part of your overall IoT architecture
 
 ## learning paths
 - Coming Soon
