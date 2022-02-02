@@ -1,23 +1,17 @@
-# IoT Central 
+# IoT Central
 Additional resources useful for creating solutions with [IoT Central](https://aka.ms/iotcentral)
 
 ## learning paths
-- [device-observability-onthe-edge](https://github.com/iot-for-all/Device-Observability-onthe-Edge) - walks through setting up diagnostics (observability) for an IoT Edge device 
+- [device-observability-onthe-edge](https://github.com/iot-for-all/Device-Observability-onthe-Edge) - walks through setting up diagnostics (observability) for an IoT Edge device
 
 ## connecting devices
-- [iot-central-web-mqtt-device](https://github.com/iot-for-all/iot-central-web-mqtt-device) - simple device ran in a web browser able to do bi-directional communication with IoT Central
-- [iot_central_python_sample](https://github.com/iot-for-all/Iot_Central_Python_Sample) - simple sample device written in Python able to do bi-directional communication with IoT Central
-- [mock-devices](https://github.com/codetunez/mock-devices) - simulates 1 to 1000 devices, gateways, nested devices, and [Azure IoT Edge](https://github.com/Azure/iotedge) with interactive bi-directional communication with IoT Central 
-- [starling](https://github.com/iot-for-all/starling) - simulates tens of thousands of devices connecting to and communicating with IoT Central and displays health metrics using Prometheus and Grafana
-- [iotc-paad](https://github.com/iot-for-all/iotc-paad) - app that uses your phone as a device in IoT Central
 - [iotc-cpm-sample](https://github.com/iot-for-all/iotc-cpm-sample) - a sample application written in React-Native to connect Bluetooth Low-Energy (BLE) devices to Azure IoT Central
 - [iotc-edgemodule-vm-deploy](https://github.com/iot-for-all/iotc-edgemodule-vm-deploy) - an ARM Template to deploy IoT Edge enabled VM pre-configured for an IoT Central edge module
 - [iotc-micropython-client](https://github.com/iot-for-all/iotc-micropython-client) - a micropython SDK for connecting devices to IoT Central
 - [iotc-python-client](https://github.com/iot-for-all/iotc-python-client) - a Python SDK for connecting devices to IoT Central
 - [node-red-connector-for-azure-iot-central](https://techcommunity.microsoft.com/t5/azure-iot/node-red-connector-for-azure-iot-central/m-p/1605502) - connect devices using Node-RED
-
-## testing devices
-- [iotc-twinviewer](https://github.com/iot-for-all/iotc-twinviewer) - tool to view current state of the device twin
+- [mock-devices](https://github.com/codetunez/mock-devices) - simulates 1 to 1000 devices, gateways, nested devices, and [Azure IoT Edge](https://github.com/Azure/iotedge) with interactive bi-directional communication with IoT Central
+- [starling](https://github.com/iot-for-all/starling) - simulates tens of thousands of devices connecting to and communicating with IoT Central and displays health metrics using Prometheus and Grafana
 
 ## companion experiences
 - [iotc-go](https://github.com/iot-for-all/iotc-go) - demonstrates using the IoT Central APIs in a Golang command-line tool
@@ -31,6 +25,14 @@ Additional resources useful for creating solutions with [IoT Central](https://ak
 
 ## compute
 - [iot-central-compute](https://github.com/iot-for-all/iot-central-compute) - a simple way to do compute and data transformation on data sent to Azure IoT Central using Azure Functions
+
+## documentation
+- [Overview of Azure IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/core/overview-iot-central)
+- [Connect Azure IoT Edge Devices to an Azure IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/core/concepts-iot-edge)
+- [Docs](https://docs.microsoft.com/en-us/azure/iot-central/core/tutorial-connect-device-python) - Python SDKs and samples
+- [Docs](https://docs.microsoft.com/en-us/azure/iot-central/core/tutorial-connect-device-nodejs) - Node.js SDKs and samples
+- [Develop with Sphere and Azure RTOS](https://docs.microsoft.com/en-us/learn/modules/develop-secure-iot-solutions-azure-sphere-iot-central/) - Sphere tutorial
+- [IoT Show](https://aka.ms/iotshow) - videos
 
 
 ## miscellaneous
