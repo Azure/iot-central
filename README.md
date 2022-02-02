@@ -23,7 +23,8 @@ A curated list of repositories that show how to code devices to take full advant
 | [iot-central-web-mqtt-device](https://github.com/Azure/iot-central-web-mqtt-device) | A simple IoT device that runs fully contained in the web browser and communicates with Azure IoT Central over MQTT (using websockets) | Code |
 | [iot_central_python_sample](https://github.com/Azure/iot_central_python_sample) | A simple sample device written in Python able to do bi-directional communication with IoT Central | Code |
 | [iot-central-paad](https://github.com/Azure/iot-central-paad) | React-native phone app that uses your phone as a device in IoT Central.  App is available in the Android and IPhone stores | Code |
-
+| [iot-central-micropython-client](https://github.com/Azure/iot-central-micropython-client)| A MicroPython sample for connecting devices to IoT Central | Code |
+| [iot-central-python-client](https://github.com/Azure/iot-central-python-client) | A Pythong sample for connecting devices to IoT Central | Code |
 
 [⬆ back to index](#index)
 
@@ -54,7 +55,9 @@ A curated list of repositories that show how to build companion web and phone ap
 
 | Repository                                                                                          | Description                                                                                                                                               | Type     |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [Azure/iotc-device-bridge](https://github.com/Azure/iotc-device-bridge) | Runnable as an Azure Function or Container, bridge transforms and sends unidirectional data using HTTP in cloud-to-cloud integrations with IoT Central | Code |
+| [iotc-device-bridge](https://github.com/Azure/iotc-device-bridge) | Runnable as an Azure Function or Container, bridge transforms and sends **unidirectional** data using HTTP in cloud-to-cloud integrations with IoT Central | Code |
+| [iot-central-bidirectional-device-bridge](https://github.com/Azure/iot-central-bidirectional-device-bridge) | Transforms and sends/receives **bidirectional** data using AMQP in cloud-to-cloud integrations with IoT Central | Code |
+| [iot-central-compute](https://github.com/Azure/iot-central-compute) | A simple way to do compute and data transformation on data sent to IoT Central using Azure Functions | Code |
 
 [⬆ back to index](#index)
 
