@@ -1,6 +1,10 @@
 # Awesome IoT Central [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcentral) that make you say "Wow, this is amazing!"
 
+## Index
+-   [connecting devices](#connecting-devices)
+-   [companion experiences](#companion-experiences)
+
 ## guidance
 - [iot-central-integration-guide](https://github.com/Azure/iot-central-integration-guide) - integration patterns and samples for using IoT Central as part of your overall IoT architecture
 
@@ -8,9 +12,15 @@ Useful resources for creating solutions with [IoT Central](https://aka.ms/iotcen
 - Coming Soon
 
 ## connecting devices
-- [iot-central-high-availability-clients](https://github.com/Azure/iot-central-high-availability-clients) - device code showing how to failover between IoT Hubs
-- [iot-central-batch-telemetry-with-python](https://github.com/Azure/iot-central-batch-telemetry-with-python) - device code showing how to send telemetry as a batch over HTTPS
-- [iot-central-file-upload-device](https://github.com/Azure/iot-central-file-upload-device) - shows how a device can upload a file to the cloud using IoT Central
+A curated list of repositories that show how to code devices to take full advantage of IoT Central features, including its multi-hub high avialibality capabilities.
+
+| Repository                                                                                                  | Description                                                                                                            | Type     |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------- |
+| [iot-central-high-availability-clients](https://github.com/Azure/iot-central-high-availability-clients)     | Full device client samples that illustrates how to code a high availability device client for use with IoT Central     | Code     |
+| [iot-central-batch-telemetry-with-python](https://github.com/Azure/iot-central-batch-telemetry-with-python) | Samples showing how to send batch data to IoT Central (and IoT Hub) with Python using the Azure IoT hub REST interface | Code     |
+| [iot-central-file-upload-device](https://github.com/Azure/iot-central-file-upload-device)                   | Sample showing how to use the file upload feature of IoT Hub from within an IoT Central app                            | Code     |
+
+###### [⬆ Back to Index](#index) ######
 
 ## testing devices
 - [iotc-twinviewer](https://github.com/iot-for-all/iotc-twinviewer) - tool to view current state of the device twin
