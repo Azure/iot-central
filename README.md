@@ -24,6 +24,8 @@ A curated list of repositories that show how to build companion web and phone ap
 | [iot-central-aad-setup](https://github.com/Azure/iot-central-aad-setup)                             | Guidance on setting up an Azure Active Directory application to work with IoT Central                                                                     | Guidance |                                                                    |
 | [iot-central-contoso-drive-support](https://github.com/Azure/iot-central-contoso-drive-support)     | An IoT Central companion experience that demonstrates how to build a custom web app for a support technician operating a fleet management solution        | Code     |
 | [iot-central-contoso-drive-simulator](https://github.com/Azure/iot-central-contoso-drive-simulator) | An IoT Central companion experience that demonstrates how to build a web app that does device simulation (use with the Contoso-Drive Support application) | Code     |
+| [iot-central-aad-app)](https://github.com/Azure/iot-central-aad-app)                                | A small codebase showing how to authenticate/authorize to use IoT Central control and data plane APIs                                                     | Code     |
+
 
 ## transformation
 - [Azure/iotc-device-bridge](https://github.com/Azure/iotc-device-bridge) - runnable as an Azure Function or Container, it transforms and sends unidirectional data using HTTP in cloud-to-cloud integrations with IoT Central
