@@ -1,12 +1,7 @@
 # IoT Central 
 Additional resources useful for creating solutions with [IoT Central](https://aka.ms/iotcentral)
 
-## guidance
-- [iot-central-integration-guide](https://github.com/iot-for-all/iot-central-integration-guide) - integration patterns and samples for using IoT Central as part of your overall IoT architecture
-- [iot-central-aad-setup](https://github.com/iot-for-all/iot-central-aad-setup) - guidance on setting up an Azure Active Directory application to work with IoT Central 
-
 ## learning paths
-- [companion-experiences-learning](https://github.com/iot-for-all/companion-experiences-learning) - walks through building companion experiences with IoT Central 
 - [device-observability-onthe-edge](https://github.com/iot-for-all/Device-Observability-onthe-Edge) - walks through setting up diagnostics (observability) for an IoT Edge device 
 
 ## connecting devices
@@ -17,7 +12,6 @@ Additional resources useful for creating solutions with [IoT Central](https://ak
 - [iotc-paad](https://github.com/iot-for-all/iotc-paad) - app that uses your phone as a device in IoT Central
 - [iotc-cpm-sample](https://github.com/iot-for-all/iotc-cpm-sample) - a sample application written in React-Native to connect Bluetooth Low-Energy (BLE) devices to Azure IoT Central
 - [iotc-edgemodule-vm-deploy](https://github.com/iot-for-all/iotc-edgemodule-vm-deploy) - an ARM Template to deploy IoT Edge enabled VM pre-configured for an IoT Central edge module
-- [iot-central-batch-telemetry-with-python](https://github.com/iot-for-all/iot-central-batch-telemetry-with-python) - sample showing batching telemetry messages using Python device SDK
 - [iotc-micropython-client](https://github.com/iot-for-all/iotc-micropython-client) - a micropython SDK for connecting devices to IoT Central
 - [iotc-python-client](https://github.com/iot-for-all/iotc-python-client) - a Python SDK for connecting devices to IoT Central
 - [node-red-connector-for-azure-iot-central](https://techcommunity.microsoft.com/t5/azure-iot/node-red-connector-for-azure-iot-central/m-p/1605502) - connect devices using Node-RED
@@ -26,9 +20,6 @@ Additional resources useful for creating solutions with [IoT Central](https://ak
 - [iotc-twinviewer](https://github.com/iot-for-all/iotc-twinviewer) - tool to view current state of the device twin
 
 ## companion experiences
-- [contoso-drive-support](https://github.com/iot-for-all/contoso-drive-support) - an IoT Central companion experience that demonstrates how to build a custom web app for a support technician operating a fleet management solution
-- [contoso-drive-simulator](https://github.com/iot-for-all/contoso-drive-simulator) - an IoT Central companion experience that demonstrates how to build a web app that does device simulation (use with the Contoso-Drive Support application)
-- [iot-central-aad-app](https://github.com/iot-for-all/iot-central-aad-app) - authenticate and use IoT Central control and data plane APIs
 - [iotc-go](https://github.com/iot-for-all/iotc-go) - demonstrates using the IoT Central APIs in a Golang command-line tool
 - [iotc-query](https://github.com/iot-for-all/iotc-query) - demonstrates using the query APIs currently in private preview
 - [iotc-migrator](https://github.com/iot-for-all/iotc-migrator) - companion experience for moving device between IoT Central applications or to a pure PaaS solution
