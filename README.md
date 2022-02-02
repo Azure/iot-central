@@ -33,7 +33,7 @@ A curated list of repositories that help debug and test device code.
 
 | Repository                                                                                                  | Description                                                                                                            | Type     |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------- |
-| [azure-iot-cli-extension](https://github.com/Azure/azure-iot-cli-extension#microsoft-azure-iot-extension-for-azure-cli) | A tool to view current state of the device twin | Code |
+| [iot-central-twinviewer](https://github.com/Azure/iot-central-twinviewer) | A tool to view current state of the device twin | Code |
 | [azure-iot-cli-extension](https://github.com/Azure/azure-iot-cli-extension#microsoft-azure-iot-extension-for-azure-cli) | A command line tool for debugging device/cloud messaging, including ability to cause fault and test device failover | Code |
 
 [⬆ back to index](#index)
