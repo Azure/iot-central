@@ -20,6 +20,9 @@ Additional resources useful for creating solutions with [IoT Central](https://ak
 - [iot-central-transform-with-iot-edge](https://github.com/iot-for-all/iot-central-transform-with-iot-edge) - uses Azure IoT Edge to transform and send data to IoT Central
 - [iotc-weather](https://github.com/iot-for-all/iotc-weather) - sends collected weather data from a MySQL database to an IoT Central application
 
+## using edge
+- [Device-Observability-onthe-Edge](https://github.com/iot-for-all/Device-Observability-onthe-Edge) -
+
 ## documentation
 - [Overview of Azure IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/core/overview-iot-central)
 - [Connect Azure IoT Edge Devices to an Azure IoT Central](https://docs.microsoft.com/en-us/azure/iot-central/core/concepts-iot-edge)
