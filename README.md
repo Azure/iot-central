@@ -1,6 +1,8 @@
 # Awesome IoT Central [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of useful resources for creating solutions with [IoT Central](https://aka.ms/iotcentral) that make you say "Wow, this is amazing!"
 
+_**Announcement** - Join the product team on **April 7th** at the **Azure IoT Central Summit** - a free event featuring roadmap, demos, and partner success stories - [Register Today!](https://aka.ms/AzureIoTCentralSummitRegistration)!!_
+
 ## index
 - [Architecture guidance](#architecture-guidance)
 - [Connecting devices](#connecting-devices)
