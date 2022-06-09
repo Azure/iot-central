@@ -7,6 +7,7 @@ A collection of useful resources for creating solutions with [IoT Central](https
 - [Connect and test devices](#connect-and-test-devices)
 - [Companion and integrated experiences](#companion-and-integrated-experiences)
 - [Transformation and compute](#transformation-and-compute)
+- [Application DevOps](#application-devops)
 - [Additional resources](#additional-resources)
 
 ## Architecture guidance
@@ -54,6 +55,16 @@ A curated list of repositories that show how transform data at both ingress and 
 | [iotc-device-bridge](https://github.com/Azure/iotc-device-bridge) | The device bridge transforms and sends **unidirectional** data using HTTP in cloud-to-cloud integrations with IoT Central. Run either as an Azure Function or in a container. | Code |
 | [iot-central-bidirectional-device-bridge](https://github.com/Azure/iot-central-bidirectional-device-bridge) | Transforms and sends/receives **bidirectional** data using AMQP in cloud-to-cloud integrations with IoT Central. | Code |
 | [iot-central-compute](https://github.com/Azure/iot-central-compute) | A simple way to do compute and data transformation on data sent to IoT Central using Azure Functions. | Code |
+
+[⬆ back to index](#index)
+
+## Application DevOps
+A currated list of repositories that show how to manage applications from development to production environments.
+
+| Repository                                                                                          | Description                                                                                                                                               | Type     |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [howto-integrate-with-devops](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-integrate-with-devops) | Guidance on using Azure DevOps pipelines and IoT Central's API to manage application lifecycles, from development to production.  | Guidance |
+| [iot-central-CICD-sample](https://github.com/Azure/iot-central-CICD-sample) | Shows how to integrate IoT Central into an Azure DevOps pipeline for CI/CD. | Code |
 
 [⬆ back to index](#index)
 
